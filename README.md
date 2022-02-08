@@ -1,5 +1,11 @@
 ### Hi there Raoji Patil 👋
 
+I am Raoji Patil from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+
+I am skilled in HTML, CSS, Javascript, ReactJS, React Query, Redux, React Router, NodeJs, Mongodb, ExpressJs. I am good in data structure and algorithms.
+
+When I am not coding, I love listening music, watching movies and plyaing chess.
+
 <!--
 **RaojiPatil/RaojiPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
