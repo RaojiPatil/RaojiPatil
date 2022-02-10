@@ -37,4 +37,4 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raojipatil&theme=tokyonight" alt="raojipatil" style="width:280px;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raojipatil&theme=tokyonight" alt="raojipatil" style="width:450px;" style="margin-left:100px;"  /></p>
