@@ -32,11 +32,8 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 ## GitHub Status
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raojipatil&show_icons=true&locale=en&theme=dracula" alt="raojipatil"  style="width:380px;" />
-    
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raojipatil&theme=tokyonight" alt="raojipatil" style="width:380px;" /></p>
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raojipatil&show_icons=true&locale=en&layout=compact&theme=dracula" alt="raojipatil" style="width:400px;" /></p>   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raojipatil&show_icons=true&locale=en&theme=dracula" alt="raojipatil"  style="width:400px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raojipatil&show_icons=true&locale=en&layout=compact&theme=dracula" alt="raojipatil" style="width:400px;" /></p>   
 
 
 
