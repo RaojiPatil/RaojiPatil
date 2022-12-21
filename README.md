@@ -9,10 +9,10 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 ## Head Lines
 
-- 🌱 I’m currently learning Full Stack Development at Masai School, Banglore.
-- 🤔 I’m looking for help with MERN Stack Project.
+- 🌱 I’m currently Working Full Stack web Development at Brainstorm force, Banglore.
+- 🤔 I’m Good in MERN Stack and DSA.
 - 💬 Ask me about <b>DSA and Frontent Development.</b>
-- 📫 How to reach me: raojipatil22@gmail.com
+- 📫 How to reach me: raojipatil11@gmail.com
 - 😄 Pronouns: <b>Coder.</b>
 - ⚡ Fun fact:  <b>When I heard first time about js and java I was assuming js and java as same language.</b>
 
