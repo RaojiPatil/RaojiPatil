@@ -9,7 +9,7 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 ## Head Lines
 
-- 🌱 I’m currently Working Full Stack web Development at Brainstorm force, Banglore.
+- 🌱 I’m currently Working in Software Developer at Brainstorm force, Banglore.
 - 🤔 I’m Good in MERN Stack and DSA.
 - 💬 Ask me about <b>DSA and Frontent Development.</b>
 - 📫 How to reach me: raojipatil11@gmail.com
