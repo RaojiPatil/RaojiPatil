@@ -1,20 +1,20 @@
 ### Hi there Raoji Patil 👋
 
-I am Raoji Patil from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+I am Raoji Patil from Pune, Maharashtra. I am a technology enthusiast, competent well-focused full-stack developer👨‍💻. I am passionate about building fully functional web applications.
 
-I am skilled in HTML, CSS, Javascript, ReactJS, React Query, Redux, React Router, NodeJs, Mongodb, ExpressJs. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, Javascript, ReactJS, React Query, Redux, React Router, NodeJs, Mongodb, and ExpressJs. I am good in data structure and algorithms.
 
 When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 ## Head Lines
 
-- 🌱 I’m currently Working in Software Developer at Brainstorm force, Pune.
+- 🌱 I’m currently working as a Full-Stack Developer at Dignizant Technologies LLP, Surat.
 - 🤔 I’m Good in MERN Stack and DSA.
-- 💬 Ask me about <b>DSA and Frontent Development.</b>
+- 💬 Ask me about <b>Frontend and Backend Development.</b>
 - 📫 How to reach me: raojipatil11@gmail.com
 - 😄 Pronouns: <b>Coder.</b>
-- ⚡ Fun fact:  <b>When I heard first time about js and java I was assuming js and java as same language.</b>
+- ⚡ Fun fact:  <b>When I heard the first time about JS and java I was assuming JS and java as the same language.</b>
 
 ## Languages & Tech
 
